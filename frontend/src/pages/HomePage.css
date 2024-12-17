@@ -1,0 +1,33 @@
+
+  /* Main content */
+  .content {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .content h1 {
+    font-size: 24px;
+    margin-bottom: 40px;
+  }
+  
+  .options {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+  }
+  
+  .option {
+    text-align: center;
+  }
+  
+  .option img {
+    height: 80px;
+    width: 80px;
+    margin-bottom: 10px;
+  }
+  
+  .option p {
+    font-size: 16px;
+    color: #333;
+  }
+  
