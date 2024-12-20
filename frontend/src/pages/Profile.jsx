@@ -5,7 +5,7 @@ function Profile() {
   return (
     <div>
       <Navbar />
-      <h1 style={styles.title}>Welcome to the Profile Page!</h1>
+      <h1 style={styles.title}>Welcome to the Music Discovery Page!</h1>
     </div>
   );
 }
