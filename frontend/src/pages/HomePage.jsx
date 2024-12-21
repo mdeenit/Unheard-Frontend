@@ -4,6 +4,8 @@ import "./HomePage.css";
 
 // Import images directly
 import musicIcon from "../assets/images/music.png";
+import add from "../assets/images/add.png";
+import playlist from "../assets/images/playlist.png";
 
 
 function HomePage() {
@@ -18,9 +20,12 @@ function HomePage() {
             <p>Music Search and Discovery</p>
           </div>
           <div className="option">
+          <img src={add} alt="Music Search" />
             <p>Create Artist Profile</p>
           </div>
           <div className="option">
+            <img src={playlist} alt="Music Search" />
+
             <p>Playlist Management</p>
             
           </div>
