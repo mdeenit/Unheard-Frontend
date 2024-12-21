@@ -77,3 +77,18 @@
     background-color: #c0392b;
   }
   
+  .playlist-button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    font-size: 14px;
+    color: white;
+    background-color: #ff5a5f;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .playlist-button:hover {
+    background-color: #ff4040;
+  }
